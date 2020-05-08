@@ -1,6 +1,8 @@
 # MCMC-Log-Reg
 Contains a class that fits logistic regression parameters via a modified Metropolis-Hastings algorithm.
 
+Requires numpy, scipy, and tqdm libraries.
+
 Possible inputs are:
     
      y: numpy array (column vector) of the training labels; length must match the number of rows in X
