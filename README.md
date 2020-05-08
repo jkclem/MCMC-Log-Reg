@@ -1,5 +1,5 @@
 # MCMC-Log-Reg
-Contains a class that fits logistic regression parameters via a modified Metropolis-Hastings algorithm.
+Contains a class that fits logistic regression parameters via a modified Metropolis-Hastings algorithm. An example is contained in a .ipynb file in this repository.
 
 Requires numpy, scipy, and tqdm libraries.
 
